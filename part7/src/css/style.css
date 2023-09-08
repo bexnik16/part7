@@ -1,0 +1,31 @@
+.contact-info {
+  text-align: left;
+  margin-left: 20px;
+}
+
+.social-icons {
+  display: inline-block;
+  margin-right: 20px;
+}
+
+.social-icons a {
+  margin-right: 10px;
+  text-decoration: none;
+  color: #007bff;
+}
+
+.about-us {
+  text-align: justify;
+}
+
+.right-align {
+  text-align: right;
+}
+
+.container.row.col-md-4 p {
+  text-align: left;
+}
+
+.second p {
+  float: right;
+}/*# sourceMappingURL=style.css.map */
